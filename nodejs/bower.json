@@ -1,0 +1,8 @@
+{
+  "name": "rfid-socketio",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.2.11",
+    "bootstrap-sass": "git://github.com/twbs/bootstrap-sass.git#~3.1.0"
+  }
+}

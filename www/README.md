@@ -1,0 +1,1 @@
+The web app is not complete here, we just add the 2 angularjs services we are using: rfid.js and socket.js. We will try our best to update it later with a full working app for demo purpose.
